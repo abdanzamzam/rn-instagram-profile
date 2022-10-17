@@ -2,4 +2,4 @@
 rn-instagram-profile
 
 Review:
-[image](https://github.com/abdanzamzam/rn-instagram-profile/blob/main/Preview.jpg)
+![https://github.com/abdanzamzam/rn-instagram-profile/blob/main/Preview.jpg]()
