@@ -1,5 +1,5 @@
 # rn-instagram-profile
-rn-instagram-profile
+UI Instagram Profile
 
 Review:
 
